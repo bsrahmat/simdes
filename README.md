@@ -24,7 +24,7 @@ Please combine the eight zip files above.
 
 <br>
 
-### Alternative to download this e-book at:
+### Alternative to download e-Book for this Code at:
 
 - <a href="https://github.com/bsrahmat/ebook-07/blob/main/EBook07_Simdes.pdf" target="_blank">EBook07_Simdes.pdf</a>
 
